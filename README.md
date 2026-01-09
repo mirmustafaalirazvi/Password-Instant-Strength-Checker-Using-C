@@ -35,11 +35,14 @@ This application evaluates a password using the following criteria:
  •	Applying logical conditions
  •	Writing clean procedural code
  •	Implementing real-world validation logic
+ 
  ⸻
+ 
  🔮 Future Enhancements
  •	Masked password input
  •	Password generator
  •	Save password history using file handling
+ 
  ⸻
  
  👤 Author
