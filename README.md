@@ -15,7 +15,9 @@ This application evaluates a password using the following criteria:
  •	Weak
  •	Medium
  •	Strong
+ 
  ⸻
+ 
  ⚙️ Technologies Used
  •	Language: C
  •	Compiler: Dev C++
@@ -39,6 +41,7 @@ This application evaluates a password using the following criteria:
  •	Password generator
  •	Save password history using file handling
  ⸻
+ 
  👤 Author
 
   Mir Mustafa Razvi
