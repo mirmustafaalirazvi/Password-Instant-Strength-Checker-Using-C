@@ -1,6 +1,7 @@
 # Password-Instant-Strength-Checker-Using-C
 
-A simple and effective console-based C application that checks the strength of a user-entered password based on common security rules.
+
+ A simple and effective console-based C application that checks the strength of a user-entered password based on common security rules.
 This project was developed as part of my BCA 1st Semester – C Programming coursework.
 
 This application evaluates a password using the following criteria:
